@@ -53,6 +53,6 @@ This system is a simple backend system with ablility to:
 
 The system is developed using <a  href="https://laravel.com/"  target="_blank">Laravel</a> Framework
 
-  
+Front-end Code <a  href="https://github.com/NafMKD/emp-management"  target="_blank">Click me</a>
 
 <a  href="http://linose-studio.herokuapp.com/"  target="_blank">Linose-Studio</a>
